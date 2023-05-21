@@ -10,4 +10,7 @@ Microsoft Word or OpenOffice, have find and find-and-replace features
 that can search based on regular expressions. Regular expressions are 
 huge time-savers, not just for software users but also for programmers.
 
+I have compiled various operations and tasks that you can perform with
+the help of RegEx, in order to automate your tedious tasks.
+
 Credit :- Al-Sweigart-Automate-The-Boring-Stuff-With-Python
